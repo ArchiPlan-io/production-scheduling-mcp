@@ -1,0 +1,4 @@
+startCommand: {type: stdio}
+configSchema: {}
+commandFunction: |-
+  () => ({ command: "uvx", args: ["production-scheduling-mcp"] })

@@ -1,0 +1,6 @@
+{
+  "name": "production-scheduling-mcp",
+  "version": "0.1.0",
+  "description": "A small OR-Tools production scheduler for AI assistants.",
+  "maintainers": ["ratamaha-git"]
+}
